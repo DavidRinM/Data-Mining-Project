@@ -1,8 +1,0 @@
-{
-    "db": "mineria_datos",
-    "username": "md_etl",
-    "password": "5TpfahuqHCmK5R6r",
-    "port": "3306",
-    "flavour": "mysql",
-    "host": "mddatabase.cdtpqh8axevj.us-east-2.rds.amazonaws.com"
-}
